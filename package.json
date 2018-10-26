@@ -1,11 +1,19 @@
 {
   "name": "cordova-plugin-ylencryption",
-  "version": "1.0.2",
+  "version": "1.0.5",
+  "description": "自己用的加密",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plat10510/cordova-plugin-ylencryption.git"
+  },
   "author": "luoyuanli",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/plat10510/cordova-plugin-ylencryption/issues"
+  },
+  "homepage": "https://github.com/plat10510/cordova-plugin-ylencryption#readme"
 }
